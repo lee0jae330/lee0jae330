@@ -19,3 +19,6 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xingxing2001)](https://solved.ac/xingxing2001)
+
+## ETC
+[![lee0jat330's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee0jae330)](https://github.com/lee0jae330/github-readme-stats)
