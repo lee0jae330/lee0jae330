@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=10&height=140&section=header&text=YeongJae%20Lee&fontSize=40)
 
+<a href="https://velog.io/@lee0jae330/posts"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@lee0jae330/posts"/></a> <a href="https://www.linkedin.com/in/lee0jae330/"><img src="https://img.shields.io/badge/LinkedIn-1578D3?style=flat-square&logoColor=white&link=https://www.linkedin.com/in/lee0jae330/"/></a>
+
 ## Education
 
 - _[중앙대학교](https://www.cau.ac.kr/index.do)_ 
