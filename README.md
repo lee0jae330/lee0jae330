@@ -9,8 +9,8 @@
   - 2020.03 ~ 2026.08 (졸업 예정)
 
 ## Experience
- - _[Goorm](https://goorm.co/) 인턴십_
-   - 풀스택 엔지니어
+ - _[Goorm](https://goorm.co/)_
+   - 풀스택 엔지니어 (인턴십)
    - 2025.03 ~ Now
 
   - _[부스트캠프](https://boostcamp.connect.or.kr/) 웹 모바일 9기 멤버십_
