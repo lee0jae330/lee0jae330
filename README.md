@@ -12,6 +12,10 @@
  - _[Goorm](https://goorm.co/)_
    - 풀스택 엔지니어 (인턴십)
    - 2025.03 ~ 2025.08
+  
+  - [소프티어](https://softeer-bootcamp.com/) 7기
+    - 웹 프론트엔드
+    - 2025.12.29 ~ ing 
 
   - _[부스트캠프](https://boostcamp.connect.or.kr/) 웹 모바일 9기 멤버십_
     - 웹 풀스택 (JavaScript)
